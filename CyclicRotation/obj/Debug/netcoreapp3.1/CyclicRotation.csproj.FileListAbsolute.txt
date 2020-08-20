@@ -1,0 +1,13 @@
+C:\Users\Administration\source\repos\CyclicRotation\CyclicRotation\obj\Debug\netcoreapp3.1\CyclicRotation.csprojAssemblyReference.cache
+C:\Users\Administration\source\repos\CyclicRotation\CyclicRotation\obj\Debug\netcoreapp3.1\CyclicRotation.AssemblyInfoInputs.cache
+C:\Users\Administration\source\repos\CyclicRotation\CyclicRotation\obj\Debug\netcoreapp3.1\CyclicRotation.AssemblyInfo.cs
+C:\Users\Administration\source\repos\CyclicRotation\CyclicRotation\obj\Debug\netcoreapp3.1\CyclicRotation.csproj.CoreCompileInputs.cache
+C:\Users\Administration\source\repos\CyclicRotation\CyclicRotation\bin\Debug\netcoreapp3.1\CyclicRotation.exe
+C:\Users\Administration\source\repos\CyclicRotation\CyclicRotation\bin\Debug\netcoreapp3.1\CyclicRotation.deps.json
+C:\Users\Administration\source\repos\CyclicRotation\CyclicRotation\bin\Debug\netcoreapp3.1\CyclicRotation.runtimeconfig.json
+C:\Users\Administration\source\repos\CyclicRotation\CyclicRotation\bin\Debug\netcoreapp3.1\CyclicRotation.runtimeconfig.dev.json
+C:\Users\Administration\source\repos\CyclicRotation\CyclicRotation\bin\Debug\netcoreapp3.1\CyclicRotation.dll
+C:\Users\Administration\source\repos\CyclicRotation\CyclicRotation\bin\Debug\netcoreapp3.1\CyclicRotation.pdb
+C:\Users\Administration\source\repos\CyclicRotation\CyclicRotation\obj\Debug\netcoreapp3.1\CyclicRotation.dll
+C:\Users\Administration\source\repos\CyclicRotation\CyclicRotation\obj\Debug\netcoreapp3.1\CyclicRotation.pdb
+C:\Users\Administration\source\repos\CyclicRotation\CyclicRotation\obj\Debug\netcoreapp3.1\CyclicRotation.genruntimeconfig.cache
